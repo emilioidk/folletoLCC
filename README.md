@@ -10,3 +10,4 @@ Directorios:
 
 folleto1: folleto simple faz dimensiones aproximadas 13,5 cm x 19.5 cm
 folleto2: folleto simple faz dimensiones aproximadas 10,5 cm x 14,85 cm
+folleto3: igual al folleto 2 solo que el horario cambia a 14 hs
